@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Oswald:wght@700&family=Roboto+Condensed&family=Secular+One&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(/assets/cat2c1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h1{
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Francois One', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Secular One', sans-serif;;
+}
+
+#container{
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
+  margin: 40px;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.maintext{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Francois One', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Secular One', sans-serif;
+  font-size: 20px;
+}
+
