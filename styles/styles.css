@@ -52,7 +52,7 @@ body {
 }
 
 #content1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.231), transparent), url(/assets/question.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.231), transparent), url(../assets/question.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 30px;
